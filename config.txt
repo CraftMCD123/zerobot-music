@@ -1,4 +1,4 @@
-token=NTIxMzUyODgzODQ1OTg4MzYy.Du7QfQ.ahSumv8vJbFTb9YrNvmTUhn
+token=
 owner=498991974393708554
 prefix=!
 game=!help
